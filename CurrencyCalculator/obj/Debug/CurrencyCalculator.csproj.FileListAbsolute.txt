@@ -1,0 +1,11 @@
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe.config
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.GenerateResource.cache
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.exe
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.pdb
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\bin\Debug\Currency.xml
+C:\Users\lkume\source\repos\CurrencyCalculator\CurrencyCalculator\obj\Debug\CurrencyCalculator.CurrencyCalculator.resources
